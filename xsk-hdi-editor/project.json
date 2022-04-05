@@ -1,5 +1,5 @@
 {
-    "guid": "xsk-hdi-editor",
+    "guid": "xsk-ide-hdi",
     "repository": {
         "type": "git",
         "branch": "master",
