@@ -1,2 +1,2 @@
 # xsk-ide-hdi
-xsk-ide-xsjo
+xsk-ide-hdi Editor
