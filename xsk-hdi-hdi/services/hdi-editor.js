@@ -7,7 +7,7 @@ exports.getEditor = function () {
 		"region": "center-top",
 		"label": "HDI",
 		"defaultEditor": false,
-		"link": "../xsk-hdi-editor/editor/editor.html",
+		"link": "../xsk-ide-hdi/editor/editor.html",
 		"contentTypes": ["application/json+hdi"]
 	};
 };
