@@ -2,7 +2,7 @@
     "guid": "xsk-ide-hdi",
     "repository": {
         "type": "git",
-        "branch": "master",
+        "branch": "main",
         "url": "https://github.com/dirigiblelabs/xsk-ide-hdi.git"
     }
 }
